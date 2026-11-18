@@ -17,6 +17,8 @@ chmod +x gui-apps.sh
 
 Made for Debian. Run it from its folder or put it on your `PATH`. Run it with `-h` where supported, or read the comment header at the top of the script.
 
+More Linux tools and write-ups by Ben Santora: [truelinux.pages.dev](https://truelinux.pages.dev/)
+
 ## License
 
 MIT - see [LICENSE](LICENSE).
